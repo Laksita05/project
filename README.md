@@ -14,7 +14,7 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 Live App Demo : https://www.idurarapp.com/demo-erp-crm/
 
-Getting started
+Getting started :
 
 1.Clone the repository
 
